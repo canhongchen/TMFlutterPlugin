@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:flutterplugin/flutterplugin.dart';
+import 'package:tmbleflutterplugin/flutterplugin.dart';
 
 void main() {
   runApp(const MyApp());

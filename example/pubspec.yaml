@@ -18,7 +18,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutterplugin:
+  tmbleflutterplugin:
     # When depending on this package from a real application you should use:
     #   flutterplugin: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

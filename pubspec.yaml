@@ -1,7 +1,8 @@
-name: flutterplugin
+name: tmbleflutterplugin
 description: Thinmoo sdk plugin
 version: 0.0.1
-homepage:
+repository : 'https://github.com/canhongchen/TMFlutterPlugin.git'
+homepage:  'https://github.com/canhongchen/TMFlutterPlugin/tree/master'
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
